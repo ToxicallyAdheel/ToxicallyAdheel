@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToxicallyAdheel
-- 👀 I’m interested in Python.
+- 👀 I’m a student in software engineering, and learning graphic designing as a hobby
 - 🌱 I’m currently learning as a beginner, I want to improve more as I go along time.
 - 💞️ I’m looking to collaborate on a special bot that 
 - 📫 How to reach me ...
